@@ -1,0 +1,5 @@
+C:\Res\image\map\116\icon.png
+C:\Res\image\map\116\list.txt
+C:\Res\image\map\116\samll_map.png
+C:\Res\image\map\116\show1.jpg
+C:\Res\image\map\116\ShowList.bat
